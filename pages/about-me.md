@@ -6,14 +6,14 @@ permalink: /about-me.html
 about:
   name: Tahia Tajnim
   role: Junior, Electrical Engineering Major at Morgan State University
-  image: /assets/images/me.jpg
+  image: /assets/images/Tahia .jpg
   linkedin: https://www.linkedin.com/in/tahia-tajnim-a21788231/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Morgan State University in Baltimore, Maryland. I expect to graduate in 2026.
+    I’m a junior majoring in Electrical Engineering at Morgan State University, passionate about the intersection of artificial intelligence, embedded systems, and social impact. My current research focuses on building AI-driven tools to improve flight delay predictions for climate-resilient air travel.
 
-    My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
+  As an international student, I bring a multicultural perspective and a deep sense of resilience to my work. I enjoy blending logic with creativity—whether it’s through coding projects, collaborative teamwork, or outreach.
 
-    When I’m not working on research, I enjoy mentoring younger students, playing jazz trumpet, and tinkering with Raspberry Pi projects in my free time.
+  Outside of academics, I love creating, sharing, and learning in community-focused spaces—always curious, always building.
 
   hobbies:
     - icon: 🎺
