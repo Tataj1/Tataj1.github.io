@@ -6,7 +6,7 @@ permalink: /about-me.html
 about:
   name: Tahia Tajnim
   role: Junior, Electrical Engineering Major at Morgan State University
-  image: /assets/images/Tahia .jpg
+  image: /assets/images/Tahia.jpg
   linkedin: https://www.linkedin.com/in/tahia-tajnim-a21788231/
   bio: |
     I am junior 
