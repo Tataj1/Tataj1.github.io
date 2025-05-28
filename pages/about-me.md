@@ -4,12 +4,12 @@ title: About Me
 permalink: /about-me.html
 
 about:
-  name: Ta'quavian Johnson
-  role: Junior, Electrical Engineering Major at Example University
+  name: Tahia Tajnim
+  role: Junior, Electrical Engineering Major at Morgan State University
   image: /assets/images/me.jpg
-  linkedin: https://www.linkedin.com/in/taquavian-johnson/
+  linkedin: https://www.linkedin.com/in/tahia-tajnim-a21788231/
   bio: |
-    I’m currently a junior studying Electrical Engineering at Example University in Atlanta, Georgia. I expect to graduate in 2026.
+    I’m currently a junior studying Electrical Engineering at Morgan State University in Baltimore, Maryland. I expect to graduate in 2026.
 
     My work explores the intersection of hardware and intelligence—how wearable devices and embedded systems can help people better understand their health and environment.
 
