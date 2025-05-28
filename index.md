@@ -3,7 +3,7 @@ layout: home
 title: Tahia Tajnim
 description: CEAMLS SAIRI Summer 2025 Research Website
 
-motto: "Harnessing code, curiosity, and creativity to shape tomorrow."
+motto: "Driven by purpose, powered by code, inspired to innovate."
 
 quick_facts:
   - "🎓 Junior, Electrical Engineering @ Morgan State University"
