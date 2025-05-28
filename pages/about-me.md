@@ -9,26 +9,33 @@ about:
   image: /assets/images/Tahia.jpg
   linkedin: https://www.linkedin.com/in/tahia-tajnim-a21788231/
   bio: |
-    I am junior.
-    
-hobbies:
-    - icon: 🎺
-      title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis. 
-    - icon: 🤖
-      title: Raspberry Pi Projects
-      description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
-    - icon: 🕹️
-      title: Retro Gaming
-      description: I love modding old consoles and diving into pixel art games on emulators.
+    I’m a junior majoring in Electrical Engineering at Morgan State University, passionate about the intersection of artificial intelligence, embedded systems, and social impact. My current research focuses on building AI-driven tools to improve flight delay predictions for climate-resilient air travel.
 
-  gallery:
-    - image: /assets/images/me-guitar.png
-      caption: Playing guitar at the park!
-    - image: /assets/images/me-basketball.png
-      caption: Hooping and dropping people off at the park 🏀
-    - image: /assets/images/me.jpg
-      caption: My favorite portrait of myself :)
-    - image: /assets/images/me-pi.png
-      caption: Working on a personal project w/ the Raspberry PI
+    As an international student, I bring a multicultural perspective and a deep sense of resilience to my work. I enjoy blending logic with creativity—whether it’s through coding projects, collaborative teamwork, or outreach.
+
+    Outside of academics, I love creating, sharing, and learning in community-focused spaces—always curious, always building.
+
+hobbies:
+  - icon: 🧠
+    title: AI & Brain Tech
+    description: I’m fascinated by how AI can be used in neuroscience—from EEG signal analysis to emotion detection and mental health support.
+  - icon: 🧵
+    title: Digital Creativity
+    description: I enjoy visual storytelling, making clean diagrams, digital journaling, and crafting aesthetic presentations and lab reports.
+  - icon: 🌍
+    title: Volunteering & Cultural Exchange
+    description: I love participating in cultural events, mentoring students from underrepresented backgrounds, and giving back through academic outreach.
+  - icon: 💻
+    title: Coding & Automation
+    description: I like writing scripts to automate tasks, exploring Python libraries, and experimenting with tools like GitHub and Jupyter.
+
+gallery:
+  - image: /assets/images/me-guitar.png
+    caption: Playing guitar at the park!
+  - image: /assets/images/me-basketball.png
+    caption: Hooping and dropping people off at the park 🏀
+  - image: /assets/images/me.jpg
+    caption: My favorite portrait of myself :)
+  - image: /assets/images/me-pi.png
+    caption: Working on a personal project w/ the Raspberry Pi
 ---
