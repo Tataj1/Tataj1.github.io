@@ -12,5 +12,5 @@ quick_facts:
   - "🚀 Passionate about building smart systems for real-world impact"
 
 linkedin: https://www.linkedin.com/in/tahia-tajnim-a21788231
-image: /assets/images/me.jpg
+image: /assets/images/Tahia.jpg
 ---
