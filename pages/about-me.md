@@ -10,10 +10,11 @@ about:
   linkedin: https://www.linkedin.com/in/tahia-tajnim-a21788231/
   bio: |
     I am junior 
+    
 hobbies:
     - icon: 🎺
       title: Playing Guitar
-      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis tracks.
+      description: I’ve been playing trumpet since middle school and love improvising to Coltrane and Miles Davis. 
     - icon: 🤖
       title: Raspberry Pi Projects
       description: I enjoy building mini smart devices—like home sensors and wearables—using Raspberry Pi.
