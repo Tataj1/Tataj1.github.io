@@ -9,12 +9,7 @@ about:
   image: /assets/images/Tahia .jpg
   linkedin: https://www.linkedin.com/in/tahia-tajnim-a21788231/
   bio: |
-    I’m a junior majoring in Electrical Engineering at Morgan State University, passionate about the intersection of artificial intelligence, embedded systems, and social impact. 
-
-    As an international student, I bring a multicultural perspective and a deep sense of resilience to my work. I enjoy blending logic with creativity—whether it’s through coding projects, collaborative teamwork, or outreach.
-
-    Outside of academics, I love creating, sharing, and learning in community-focused spaces—always curious, always building.
-
+    I am junior 
 hobbies:
     - icon: 🎺
       title: Playing Guitar
