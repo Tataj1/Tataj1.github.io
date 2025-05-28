@@ -9,7 +9,7 @@ about:
   image: /assets/images/Tahia.jpg
   linkedin: https://www.linkedin.com/in/tahia-tajnim-a21788231/
   bio: |
-    I am junior 
+    I am junior.
     
 hobbies:
     - icon: 🎺
