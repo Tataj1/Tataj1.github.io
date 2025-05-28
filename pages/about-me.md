@@ -8,7 +8,7 @@ about:
   role: Junior, Electrical Engineering Major at Morgan State University
   image: /assets/images/Tahia .jpg
   linkedin: https://www.linkedin.com/in/tahia-tajnim-a21788231/
-    bio: |
+  bio: |
     I am junior 
 hobbies:
     - icon: 🎺
