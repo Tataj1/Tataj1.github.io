@@ -17,18 +17,19 @@ approach: |
   - Data Collection from FAA, NOAA, BTS, and OpenSky
   - Data Cleaning & Feature Engineering for model optimization
   - Model Building using: Random Forest & XGBoost for structured predictions, LSTM networks for time-series forecasting
-  Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
+  - Explainable AI (XAI) using SHAP/LIME for model interpretation
+  - Dashboard Development with Streamlit or Plotly Dash for real-time prediction visualization
 
 outcome: |
-  By the end of the program, the project will result in a working prototype of a BCI-controlled robotic arm and a poster presentation outlining the system architecture, training pipeline, and evaluation metrics. Insights from the user study will inform future directions in adaptive assistive technology.
+  By the end of the program, the project will result in a functional AI-powered dashboard for delay forecasting, a written research paper and oral presentation, a clear interpretation of model behavior and delay factors, technical skills in ML, data analysis, and visualization
 
 final_report_url: https://dl.icdst.org/pdfs/files/22e390b2eb0c8e951f3a742fda5b2d1d.pdf
 
 grad_mentor:
-  name: Jamal Carter
-  linkedin: https://www.linkedin.com/in/jamal-carter
+  name: Abiola Ajala
+  linkedin: https://www.linkedin.com/in/abiola-ajala-89a400272
 
 faculty_mentor:
-  name: Dr. Elijah Freeman
-  linkedin: https://www.linkedin.com/in/dr-elijah-freeman
+  name: Dr. Kofi Nyarko
+  linkedin: https://www.linkedin.com/in/kofinyarko
 ---
