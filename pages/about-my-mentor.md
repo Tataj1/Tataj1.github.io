@@ -9,10 +9,10 @@ graduate_mentor:
   image: /assets/images/graduate-student-mentor.jpg
   website: https://gradmentor.example.com
   bio: |
-    Jordan Bailey is a PhD candidate in Electrical Engineering, focused on energy-efficient neuromorphic computing. Her research explores how brain-inspired hardware can improve the performance and sustainability of edge AI systems and intelligent devices.
+    Abiola Olayinka Ajala is a dedicated PhD candidate in the Department of Electrical and Computer Engineering at Morgan State University. With a strong background in machine learning and AI applications, Abiola serves as the graduate mentor for the 2025 Summer AI Research Institute project titled "AI-Driven Flight Delay Prediction Model for Climate-Resilient Airspace Management.
     
-    Beyond the lab, Jordan has been a hands-on mentor—guiding me through research, publishing, and grad school preparation. Her support has been instrumental in helping me grow both technically and professionally, always encouraging thoughtful problem-solving and a deeper understanding of the field.
-
+    Her academic focus lies in applying advanced data-driven methods such as Random Forest, XGBoost, and Long Short-Term Memory (LSTM) networks to tackle real-world challenges. As a mentor, she brings both technical expertise and practical experience in developing predictive models and interactive dashboards that support climate resilience in aviation. Throughout the summer, Abiola works closely with undergraduate researchers, guiding them through data preprocessing, model building, explainable AI techniques (like SHAP and LIME), and effective science communication. Her leadership and mentorship foster a collaborative environment that emphasizes critical thinking, hands-on learning, and real-world impact.
+    
 faculty_mentor:
   name: Dr. Elijah Freeman
   title: Professor Emeritus, Tuskegee University
