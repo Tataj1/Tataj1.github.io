@@ -3,8 +3,8 @@ layout: project
 title: About My Project
 permalink: /about-my-project.html
 
-subtitle: Neural Engineering & Assistive Robotics
-project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
+subtitle: Climate Resilient AI & Aviation Analytics
+project_title: "AI-Driven Flight Delay Prediction Model for Climate-Resilient Airspace Management"
 
 problem: |
   Flight delays caused by adverse weather conditions significantly disrupt air travel, leading to inefficiencies and economic losses. With climate change increasing the frequency of extreme weather events, traditional delay management systems lack the predictive power and flexibility needed for modern airspace.
