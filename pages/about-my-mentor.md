@@ -4,12 +4,12 @@ title: About My Mentors
 permalink: /about-my-mentor.html
 
 graduate_mentor:
-  name: Abiola Olayinka Ajala
+  name: Abiola Ajala
   title: PhD Student, Electrical Engineering
   image: /assets/images/graduate-student-mentor.jpg
   website: https://www.linkedin.com/in/abiola-ajala-89a400272
   bio: |
-    Abiola Olayinka Ajala is a dedicated PhD candidate in the Department of Electrical and Computer Engineering at Morgan State University. With a strong background in machine learning and AI applications, Abiola serves as the graduate mentor for the 2025 Summer AI Research Institute project titled "AI-Driven Flight Delay Prediction Model for Climate-Resilient Airspace Management.
+    Abiola Ajala is a dedicated PhD candidate in the Department of Electrical and Computer Engineering at Morgan State University. With a strong background in machine learning and AI applications, Abiola serves as the graduate mentor for the 2025 Summer AI Research Institute project titled "AI-Driven Flight Delay Prediction Model for Climate-Resilient Airspace Management.
     
     Her academic focus lies in applying advanced data-driven methods such as Random Forest, XGBoost, and Long Short-Term Memory (LSTM) networks to tackle real-world challenges. As a mentor, she brings both technical expertise and practical experience in developing predictive models and interactive dashboards that support climate resilience in aviation. Throughout the summer, Abiola works closely with undergraduate researchers, guiding them through data preprocessing, model building, explainable AI techniques (like SHAP and LIME), and effective science communication. Her leadership and mentorship foster a collaborative environment that emphasizes critical thinking, hands-on learning, and real-world impact.
     
