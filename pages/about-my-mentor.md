@@ -17,7 +17,7 @@ faculty_mentor:
   name: Dr. Kofi Nyarko
   title: Professor Electrical and Computer Engineering, Morgan State University
   image: /assets/images/faculty-mentor.jpg
-  website: https://facultymentor.example.com
+  website: https://www.linkedin.com/in/kofinyarko
   bio: |
     Dr. Kofi Nyarko is a faculty member in the Department of Electrical and Computer Engineering at Morgan State University. He serves as the faculty lead for the 2025 Summer AI Research Institute project titled "AI-Driven Flight Delay Prediction Model for Climate-Resilient Airspace Management.
     
