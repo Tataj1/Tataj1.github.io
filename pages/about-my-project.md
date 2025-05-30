@@ -7,18 +7,16 @@ subtitle: Neural Engineering & Assistive Robotics
 project_title: "NeuroLink Assist: Adaptive Robotics through Brain Signal Decoding"
 
 problem: |
-  Individuals with severe motor disabilities often struggle with basic tasks that could be aided by robotic assistance. However, there is a lack of accessible and adaptive systems that respond naturally to the user's intent via brain-computer interfaces.
+  Flight delays caused by adverse weather conditions significantly disrupt air travel, leading to inefficiencies and economic losses. With climate change increasing the frequency of extreme weather events, traditional delay management systems lack the predictive power and flexibility needed for modern airspace.
 
-  This project seeks to explore how neural signals can be translated into reliable control commands for assistive robots, improving autonomy and quality of life.
 
 approach: |
   The project follows a four-phase pipeline:
 
-  - Collect EEG data during imagined movements using a non-invasive BCI headset
-  - Train machine learning models to decode intent from neural patterns
-  - Integrate real-time signal classification with a robotic arm interface
-  - Evaluate system performance in simulated daily activities (e.g., object grasping, pointing)
-
+  - Literature Review on AI/ML methods in aviation and climate resilience
+  - Data Collection from FAA, NOAA, BTS, and OpenSky
+  - Data Cleaning & Feature Engineering for model optimization
+  - Model Building using: Random Forest & XGBoost for structured predictions, LSTM networks for time-series forecasting
   Open-source tools such as OpenBCI, Python (MNE, Scikit-learn), and ROS (Robot Operating System) will be used to prototype the system.
 
 outcome: |
