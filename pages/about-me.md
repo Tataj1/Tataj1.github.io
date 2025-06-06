@@ -25,12 +25,12 @@ hobbies:
     title: Digital Creativity
     description: I enjoy visual storytelling, making clean diagrams, digital journaling, and crafting aesthetic presentations and lab reports.
   
-  - image: /assets/images/me-guitar.png
-    caption: Playing guitar at the park!
-  - image: /assets/images/me-basketball.png
-    caption: Hooping and dropping people off at the park 🏀
-  - image: /assets/images/me.jpg
-    caption: My favorite portrait of myself :)
-  - image: /assets/images/me-pi.png
-    caption: Working on a personal project w/ the Raspberry Pi
+  - image: /assets/images/mackinac-island.jpg
+    caption: Last summer vacation!
+  - image: /assets/images/albany-ny.jpg
+    caption: Winter time
+  - image: /assets/images/chicago-downtown.jpg
+    caption: Beautiful landmark
+  - image: /assets/images/purdue-university.jpg
+    caption: Last summer internship, working on a project 
 ---
