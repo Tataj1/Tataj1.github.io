@@ -9,11 +9,7 @@ about:
   image: /assets/images/Tahia.jpg
   linkedin: https://www.linkedin.com/in/tahia-tajnim-a21788231/
   bio: |
-     I’m a junior majoring in Electrical Engineering at Morgan State University, passionate about the intersection of artificial intelligence, embedded systems, and social impact. My current research focuses on building AI-driven tools to improve flight delay predictions for climate-resilient air travel.
-
-    As an international student, I bring a multicultural perspective and a strong sense of adaptability to my work. I enjoy exploring how technology can solve real-world problems—whether it’s through data modeling, collaborative projects, or community outreach.
-
-    Outside of academics, I love immersing myself in new cultures through travel, experimenting in the kitchen with traditional and modern recipes, and nurturing plants in my small garden—it brings me joy and balance.
+     I’m a junior majoring in Electrical Engineering at Morgan State University, passionate about the intersection of artificial intelligence, embedded systems, and social impact. My current research focuses on building AI-driven tools to improve flight delay predictions for climate-resilient air travel. As an international student, I bring a multicultural perspective and a strong sense of adaptability to my work. I enjoy exploring how technology can solve real-world problems—whether it’s through data modeling, collaborative projects, or community outreach. Outside of academics, I love immersing myself in new cultures through travel, experimenting in the kitchen with traditional and modern recipes, and nurturing plants in my small garden—it brings me joy and balance.
     
 hobbies:
   - icon: 🌍
