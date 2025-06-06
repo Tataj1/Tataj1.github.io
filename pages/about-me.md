@@ -9,27 +9,26 @@ about:
   image: /assets/images/Tahia.jpg
   linkedin: https://www.linkedin.com/in/tahia-tajnim-a21788231/
   bio: |
-    I’m a junior majoring in Electrical Engineering at Morgan State University, passionate about the intersection of artificial intelligence, embedded systems, and social impact. My current research focuses on building AI-driven tools to improve flight delay predictions for climate-resilient air travel.
+     I’m a junior majoring in Electrical Engineering at Morgan State University, passionate about the intersection of artificial intelligence, embedded systems, and social impact. My current research focuses on building AI-driven tools to improve flight delay predictions for climate-resilient air travel.
 
-    As an international student, I bring a multicultural perspective and a deep sense of resilience to my work. I enjoy blending logic with creativity—whether it’s through coding projects, collaborative teamwork, or outreach.
+    As an international student, I bring a multicultural perspective and a strong sense of adaptability to my work. I enjoy exploring how technology can solve real-world problems—whether it’s through data modeling, collaborative projects, or community outreach.
 
-    Outside of academics, I love creating, sharing, and learning in community-focused spaces—always curious, always building.
-
+    Outside of academics, I love immersing myself in new cultures through travel, experimenting in the kitchen with traditional and modern recipes, and nurturing plants in my small garden—it brings me joy and balance.
+    
 hobbies:
-  - icon: 🧠
-    title: AI & Brain Tech
-    description: I’m fascinated by how AI can be used in neuroscience—from EEG signal analysis to emotion detection and mental health support.
+  - icon: 🌍
+    title: Traveling & Exploration
+    description: I love discovering new places, learning about different cultures, and finding inspiration through global experiences.
+  - icon: 🍳
+    title: Cooking & Culinary Experiments
+    description: I enjoy trying new recipes, blending spices from my heritage with modern dishes, and cooking as a form of creative expression.
+  - icon: 🌱
+    title: Gardening & Plant Care
+    description: Gardening helps me stay grounded—I enjoy growing herbs, flowers, and caring for houseplants as a peaceful daily ritual.
   - icon: 🧵
     title: Digital Creativity
     description: I enjoy visual storytelling, making clean diagrams, digital journaling, and crafting aesthetic presentations and lab reports.
-  - icon: 🌍
-    title: Volunteering & Cultural Exchange
-    description: I love participating in cultural events, mentoring students from underrepresented backgrounds, and giving back through academic outreach.
-  - icon: 💻
-    title: Coding & Automation
-    description: I like writing scripts to automate tasks, exploring Python libraries, and experimenting with tools like GitHub and Jupyter.
-
-gallery:
+  
   - image: /assets/images/me-guitar.png
     caption: Playing guitar at the park!
   - image: /assets/images/me-basketball.png
