@@ -24,7 +24,8 @@ hobbies:
   - icon: 🧵
     title: Digital Creativity
     description: I enjoy visual storytelling, making clean diagrams, digital journaling, and crafting aesthetic presentations and lab reports.
-  
+
+gallery:  
   - image: /assets/images/mackinac-island.jpg
     caption: Last summer vacation!
   - image: /assets/images/albany-ny.jpg
@@ -34,3 +35,4 @@ hobbies:
   - image: /assets/images/purdue-university.jpg
     caption: Last summer internship, working on a project 
 ---
+
